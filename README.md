@@ -163,7 +163,50 @@
 # 📞 KONTAK ADMIN
 
 <p align="center">
-  <a href="https://wa.me/6282124277747">
+<b>🛒 CARA ORDER</b><br><br>
+1️⃣ Pilih nominal diamond yang kamu inginkan <br>
+2️⃣ Klik tombol WhatsApp / Instagram di bawah <br>
+3️⃣ Kirim ID & Nickname Free Fire kamu <br>
+4️⃣ Lakukan pembayaran <br>
+5️⃣ Diamond langsung diproses ✅
+</p>
+
+<br>
+
+<p align="center">
+<b>📋 FORMAT ORDER</b><br><br>
+ID Game : <br>
+Nickname : <br>
+Nominal Diamond : <br>
+Metode Pembayaran : <br>
+</p>
+
+<br>
+
+<p align="center">
+<b>🕒 JAM OPERASIONAL</b><br><br>
+06.00 - 22.00 WIB <br>
+# Di luar jam tersebut tetap bisa order dan akan diproses saat admin online.
+</p>
+
+<br>
+
+<p align="center">
+<b>ℹ️ INFORMASI PENTING</b><br><br>
+• Sistem transaksi dilakukan melalui <b>CHAT (Manual Order)</b><br>
+• Website ini hanya sebagai <b>katalog harga & daftar produk</b><br>
+• Pembayaran dan konfirmasi dilakukan via WhatsApp / Instagram<br>
+• Estimasi proses pengiriman diamond sekitar <b>2–3 menit</b> setelah pembayaran dikonfirmasi
+</p>
+
+<br>
+
+<p align="center">
+<b>👇 Klik Salah Satu Untuk Melanjutkan Order 👇</b>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/6282124277747?text=Halo%20Admin,%20saya%20ingin%20top%20up%20Free%20Fire.%0A%0AID%20Game:%20%0ANickname:%20%0ANominal%20Diamond:%20%0AMetode%20Pembayaran:%20">
     <img src="https://img.shields.io/badge/WhatsApp-082124277747-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -174,20 +217,8 @@
   </a>
 </p>
 
----
-
-<h2 align="center">
-🔥 ORDER SEKARANG & GAS PUSH RANK 🔥
-</h2>
-
 <p align="center">
-  ⚡ Respon Cepat <br>
-  💎 Diamond Langsung Masuk <br>
-  🎯 Cocok Untuk Semua Player
+⚡ Fast Response • 💎 Proses Cepat • 🔐 Aman & Terpercaya
 </p>
 
 ---
-
-<p align="center">
-  ⭐ Jangan Sampai Kehabisan Promo Hari Ini ⭐
-</p>
