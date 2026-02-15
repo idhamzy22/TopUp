@@ -146,3 +146,48 @@
 </tr>
 
 </table>
+
+---
+
+## 🚀 KEUNGGULAN TOKO KAMI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proses-Cepat-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aman-100%25-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Harga-Termurah-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Trusted-Seller-orange?style=for-the-badge">
+</p>
+
+---
+
+# 📞 KONTAK ADMIN
+
+<p align="center">
+  <a href="https://wa.me/6282124277747">
+    <img src="https://img.shields.io/badge/WhatsApp-082124277747-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/idhammzy_/">
+    <img src="https://img.shields.io/badge/Instagram-@idhammzy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">
+🔥 ORDER SEKARANG & GAS PUSH RANK 🔥
+</h2>
+
+<p align="center">
+  ⚡ Respon Cepat <br>
+  💎 Diamond Langsung Masuk <br>
+  🎯 Cocok Untuk Semua Player
+</p>
+
+---
+
+<p align="center">
+  ⭐ Jangan Sampai Kehabisan Promo Hari Ini ⭐
+</p>
