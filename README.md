@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-  <b>⚡ Proses Kilat • 💎 Diamond Langsung Masuk • 🔐 100% Aman</b>
+  <b>⚡ Proses Kilat • 💎 Diamond Langsung Masuk • 🔐 100% Aman & Legal</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=TOP+UP+FREE+FIRE+TERMURAH!;PROSES+CEPAT+%26+ANTI+RIBET!;RESMI+%26+AMAN+100%25!;LANGSUNG+ORDER+SEKARANG+JUGA!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=TOP+UP+FREE+FIRE+TERMURAH;PROSES+CEPAT+ANTI+RIBET;DIAMOND+LANGSUNG+MASUK;ORDER+SEKARANG" />
 </p>
 
 ---
@@ -22,11 +22,11 @@
 ✨ Support semua metode pembayaran  
 ✨ Cocok untuk push rank, beli bundle, spin event  
 ✨ Respon admin cepat & ramah  
+✨ Bisa order kapan saja (24 Jam)
 
 ---
 
-# 💎 FF MEMBERSHIP 💎
-🔥 Paket Favorit Player! 🔥  
+# 💎 FF MEMBERSHIP
 
 | Paket | Harga |
 |--------|--------|
@@ -36,24 +36,89 @@
 
 ---
 
-# 💎 FF BEST SELLER 💎
-🎯 Pilih Diamond Sesuai Kebutuhan Kamu 🎯  
+# 💎 FF BEST SELLER
 
-<details>
-<summary>💰 Klik untuk lihat daftar harga lengkap</summary>
+<p>
+<sub>Pilih nominal diamond sesuai kebutuhan kamu.</sub>
+</p>
 
-| Diamond | Harga | Diamond | Harga |
-|----------|--------|----------|--------|
-| 50 💎 | Rp 7.000 | 375 💎 | Rp 50.000 |
-| 100 💎 | Rp 15.000 | 500 💎 | Rp 72.000 |
-| 150 💎 | Rp 21.000 | 720 💎 | Rp 92.000 |
-| 200 💎 | Rp 28.000 | 1000 💎 | Rp 130.000 |
-| 300 💎 | Rp 40.000 | 1450 💎 | Rp 180.000 |
-| 420 💎 | Rp 60.000 | 2180 💎 | Rp 280.000 |
-| 545 💎 | Rp 80.000 | 3640 💎 | Rp 450.000 |
-| 790 💎 | Rp 100.000 | 7290 💎 | Rp 900.000 |
+<table width="100%">
+<tr>
 
-</details>
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 50 Diamond</h3>
+<h2>Rp 7.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 100 Diamond</h3>
+<h2>Rp 15.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 150 Diamond</h3>
+<h2>Rp 21.000</h2>
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 200 Diamond</h3>
+<h2>Rp 28.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:2px solid #1f6feb; padding:20px; border-radius:14px; background-color:#0d1117;">
+<h3>💎 300 Diamond</h3>
+<b>🔥 BEST DEAL 🔥</b>
+<h2>Rp 40.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 375 Diamond</h3>
+<h2>Rp 50.000</h2>
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 420 Diamond</h3>
+<h2>Rp 60.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:2px solid #d29922; padding:20px; border-radius:14px; background-color:#161b22;">
+<h3>💎 720 Diamond</h3>
+<b>⭐ PALING LARIS ⭐</b>
+<h2>Rp 92.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 1000 Diamond</h3>
+<h2>Rp 130.000</h2>
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 1450 Diamond</h3>
+<h2>Rp 180.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:1px solid #30363d; padding:18px; border-radius:12px;">
+<h3>💎 2180 Diamond</h3>
+<h2>Rp 280.000</h2>
+</td>
+
+<td width="33%" align="center" style="border:2px solid #f85149; padding:20px; border-radius:14px; background-color:#1c1f26;">
+<h3>💎 7290 Diamond</h3>
+<b>👑 SULTAN PACKAGE 👑</b>
+<h2>Rp 900.000</h2>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -85,11 +150,11 @@
 ---
 
 <h2 align="center">
-🔥 ORDER SEKARANG & GAS PUSH RANK! 🔥
+🔥 ORDER SEKARANG & GAS PUSH RANK 🔥
 </h2>
 
 <p align="center">
-  ⚡ Respon Super Cepat <br>
+  ⚡ Respon Cepat <br>
   💎 Diamond Langsung Masuk <br>
   🎯 Cocok Untuk Semua Player
 </p>
@@ -97,5 +162,5 @@
 ---
 
 <p align="center">
-  ⭐ Jangan Sampai Kehabisan Promo! ⭐
+  ⭐ Jangan Sampai Kehabisan Promo Hari Ini ⭐
 </p>
