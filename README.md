@@ -160,6 +160,21 @@
 
 ---
 
+## 🔒 GARANSI & KEAMANAN
+
+<p align="center">
+✅ 100% Legal & Aman <br>
+✅ No Login / No Password <br>
+✅ Hanya Butuh ID & Nickname <br>
+✅ Tidak Mengubah Data Akun <br>
+</p>
+
+<p align="center">
+💬 Jika terjadi kendala, admin siap bantu sampai selesai.
+</p>
+
+---
+
 # 📞 KONTAK ADMIN
 
 <p align="center">
@@ -168,7 +183,7 @@
 2️⃣ Klik tombol WhatsApp / Instagram di bawah <br>
 3️⃣ Kirim ID & Nickname Free Fire kamu <br>
 4️⃣ Lakukan pembayaran <br>
-5️⃣ Diamond langsung diproses ✅
+5️⃣ Diamond langsung diproses
 </p>
 
 <br>
