@@ -70,7 +70,6 @@
 
 <td width="33%" align="center" style="border:2px solid #1f6feb; padding:20px; border-radius:14px; background-color:#0d1117;">
 <h3>💎 300 Diamond</h3>
-<b>🔥 BEST DEAL 🔥</b>
 <h2>Rp 40.000</h2>
 </td>
 
@@ -89,7 +88,6 @@
 
 <td width="33%" align="center" style="border:2px solid #d29922; padding:20px; border-radius:14px; background-color:#161b22;">
 <h3>💎 720 Diamond</h3>
-<b>⭐ PALING LARIS ⭐</b>
 <h2>Rp 92.000</h2>
 </td>
 
@@ -113,7 +111,6 @@
 
 <td width="33%" align="center" style="border:2px solid #f85149; padding:20px; border-radius:14px; background-color:#1c1f26;">
 <h3>💎 7290 Diamond</h3>
-<b>👑 SULTAN PACKAGE 👑</b>
 <h2>Rp 900.000</h2>
 </td>
 
