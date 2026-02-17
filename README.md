@@ -524,24 +524,16 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 ### **👇 Klik Salah Satu Untuk Melanjutkan Order 👇**
 
 <a href="https://wa.me/6282124277747?text=Halo%20Admin,%20saya%20ingin%20top%20up%20Free%20Fire.%0A%0AID%20Game:%20%0ANickname:%20%0ANominal%20Diamond:%20%0AMetode%20Pembayaran:%20">
-  <img src="https://img.shields.io/badge/WhatsApp-Order_Via_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"/>
+  <img src="https://img.shields.io/badge/WhatsApp-082124277747-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"/>
 </a>
 
 <a href="https://www.instagram.com/idhammzy_/">
   <img src="https://img.shields.io/badge/Instagram-Follow_@idhammzy__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
 </a>
 
-<br><br>
+<sub>⏰ Response  : FAST (Max 5 Menit) </sub>
 
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  📱 WhatsApp  : 082124277747                 ㅤㅤㅤ║
-║  📷 Instagram : @idhammzy_                   ㅤㅤㅤ║
-║  ⏰ Response  : FAST (Max 5 Menit)           ㅤㅤㅤ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
+<br><br>
 
 ### 💬 **TESTIMONI CUSTOMER**
 
