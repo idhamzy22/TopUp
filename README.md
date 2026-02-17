@@ -38,7 +38,6 @@
 + 🎯 No Login, No Password
 + 💰 Harga Termurah Se-Indonesia
 + 🌟 Customer Service 24/7
-+ 🎁 Bonus untuk Member Setia
 + ✅ Garansi Uang Kembali
 ```
 
