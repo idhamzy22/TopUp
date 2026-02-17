@@ -547,13 +547,13 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 ```
 ⭐⭐⭐⭐⭐ "Cepat banget prosesnya, gak sampe 3 menit!"
-                                        - Rendi, Jakarta
+                                        - Eko, Tangerang
 
 ⭐⭐⭐⭐⭐ "Harga paling murah yang pernah saya temui!"
-                                        - Dika, Bandung
+                                        - Dhicky, Jakarta
 
 ⭐⭐⭐⭐⭐ "Admin ramah dan fast response, recommended!"
-                                        - Putri, Surabaya
+                                        - Evi, Surabaya
 ```
 
 <img src="https://img.shields.io/badge/Rating-4.9%2F5.0-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
@@ -606,20 +606,14 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 ### 📊 **Track Record**
 
-```
-┌─────────────────────────────┐
-│  Customer Satisfaction      │
-├─────────────────────────────┤
-│  ⭐⭐⭐⭐⭐ (4.9/5.0)ㅤㅤ │
-│                             │
-│  Total Customer: 10.000+    │
-│  Total Transaksi: 50.000+   │
-│  Success Rate: 99.9%        │
-│  Repeat Customer: 85%       │
-│                             │
-│  🏆 Top Rated Sellerㅤㅤㅤ  │
-└─────────────────────────────┘
-```
+| 🏆 **Statistik** | 📈 **Angka** |
+|:---|:---:|
+| ⭐ **Rating** | 4.9/5.0 |
+| 👥 **Total Customer** | 10.000+ |
+| 💳 **Total Transaksi** | 50.000+ |
+| ✅ **Success Rate** | 99.9% |
+| 🔄 **Repeat Customer** | 85% |
+| 🏆 **Achievement** | Top Rated Seller 2025 |
 
 </td>
 </tr>
