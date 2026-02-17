@@ -521,7 +521,7 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 <div align="center">
 
-### 🚀 **👇 Klik Salah Satu Untuk Melanjutkan Order 👇**
+### **👇 Klik Salah Satu Untuk Melanjutkan Order 👇**
 
 <a href="https://wa.me/6282124277747?text=Halo%20Admin,%20saya%20ingin%20top%20up%20Free%20Fire.%0A%0AID%20Game:%20%0ANickname:%20%0ANominal%20Diamond:%20%0AMetode%20Pembayaran:%20">
   <img src="https://img.shields.io/badge/WhatsApp-Order_Via_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"/>
