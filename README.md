@@ -544,7 +544,7 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
                                         - Dhicky, Jakarta
 
 ⭐⭐⭐⭐⭐ "Admin ramah dan fast response, recommended!"
-                                        - Evi, Surabaya
+                                        - Tegar, Bali
 ```
 
 <img src="https://img.shields.io/badge/Rating-4.9%2F5.0-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
