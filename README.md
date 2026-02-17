@@ -696,6 +696,6 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/fftopup/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO)
 
 </div>
