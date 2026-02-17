@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FREE%20FIRE%20TOP%20UP&fontSize=50&fontAlignY=35&desc=Diamond%20Termurah%20・%20Proses%20Kilat%20・%20100%%20Aman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FREE%20FIRE%20TOP%20UP&fontSize=50&fontAlignY=35&desc=Diamond%20Termurah%20・%20Proses%20Cepat%20・%20%20Aman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+TOP+UP+DIAMOND+FF+TERMURAH;%E2%9A%A1+PROSES+INSTANT+2-3+MENIT;%F0%9F%92%8E+TRUSTED+SELLER+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90" alt="Typing SVG" />
