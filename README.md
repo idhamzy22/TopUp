@@ -490,8 +490,8 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 | HARI | JAM AKTIF | STATUS |
 |:---:|:---:|:---:|
-| **Senin - Jumat** | 06.00 - 22.00 WIB | 🟢 **ONLINE** |
-| **Sabtu - Minggu** | 06.00 - 22.00 WIB | 🟢 **ONLINE** |
+| **Senin - Jumat** | 07.00 - 22.00 WIB | 🟢 **ONLINE** |
+| **Sabtu - Minggu** | 08.00 - 23.00 WIB | 🟢 **ONLINE** |
 | **Luar Jam** | Order Tetap Diterima | 🟡 **AUTO PROCESS** |
 
 <sub>💡 Di luar jam operasional, order akan diproses otomatis saat admin online!</sub>
