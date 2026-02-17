@@ -683,7 +683,7 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 ```
 
 <a href="https://wa.me/6282124277747?text=Halo%20Admin,%20saya%20ingin%20top%20up%20Free%20Fire.%0A%0AID%20Game:%20%0ANickname:%20%0ANominal%20Diamond:%20%0AMetode%20Pembayaran:%20">
-  <img src="https://img.shields.io/badge/🚀_ORDER_SEKARANG-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORDER_SEKARANG-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
@@ -694,6 +694,8 @@ Pembayaran     : (DANA/OVO/GOPAY/QRIS/Transfer)
 
 <sub>© 2025 Free Fire Top Up Services | Made with ❤️ for FF Players</sub>
 
-<img src="https://visitcount.itsvg.in/api?id=fftopup&label=Visitors&color=12&icon=5&pretty=true" />
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/fftopup/count.svg)
 
 </div>
