@@ -148,22 +148,22 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/💎-145-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💎-145-00FFFF?style=for-the-badge"/>
 <br><b>Diamond</b>
 <br><h3>Rp 20.000</h3>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/💎-150-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💎-150-00FFFF?style=for-the-badge"/>
 <br><b>Diamond</b>
 <br><h3>Rp 21.000</h3>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/💎-160-00F0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💎-160-00FFFF?style=for-the-badge"/>
 <br><b>Diamond</b>
 <br><h3>Rp 24.000</h3>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/💎-190-00FBFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💎-190-00FFFF?style=for-the-badge"/>
 <br><b>Diamond</b>
 <br><h3>Rp 26.000</h3>
 </td>
