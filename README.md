@@ -67,7 +67,7 @@
 
 | 🎁 **PAKET MEMBERSHIP** | 💰 **HARGA** | ⏱️ **DURASI** | 🎯 **BENEFIT** |
 |:---|:---:|:---:|:---|
-| 🏆 **Booyah Pass (BP CARD)** | **Rp 40.000** | 30 Hari | Akses Eksklusif + Rewards |
+| 🏆 **Booyah Pass (BP CARD)** | **Rp 45.000** | 30 Hari | Akses Eksklusif + Rewards |
 | 💠 **Membership Mingguan** | **Rp 30.000** | 7 Hari | 50 Diamond/Hari (Total 450) |
 | 🔥 **Membership Bulanan** | **Rp 85.000** | 30 Hari | 50 Diamond/Hari (Total 2000) |
 
@@ -137,12 +137,12 @@
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/💎-130-FFE100?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 18.000</h3>
+<br><h3>Rp 19.000</h3>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/💎-140-FFEB00?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 19.000</h3>
+<br><h3>Rp 18.000</h3>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/💎-150-00FFFF?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 21.000</h3>
+<br><h3>Rp 22.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-160-00FFFF?style=for-the-badge"/>
@@ -277,7 +277,7 @@
 </td>
 <td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px;">
 <img src="https://img.shields.io/badge/⭐_PROMO-720_DIAMOND-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
-<br><h2>Rp 92.000</h2>
+<br><h2>Rp 95.000</h2>
 </td>
 </tr>
 </table>
@@ -291,12 +291,12 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💎-770-E040FB?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 95.000</h3>
+<br><h3>Rp 102.000</h3>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💎-790-D500F9?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 100.000</h3>
+<br><h3>Rp 105.000</h3>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💎-800-AA00FF?style=for-the-badge"/>
@@ -313,22 +313,22 @@
 <td align="center">
 <img src="https://img.shields.io/badge/💎-930-8E24AA?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 122.000</h3>
+<br><h3>Rp 125.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-1000-7B1FA2?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 130.000</h3>
+<br><h3>Rp 135.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-1050-6A1B9A?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 138.000</h3>
+<br><h3>Rp 140.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-1075-4A148C?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 140.000</h3>
+<br><h3>Rp 145.000</h3>
 </td>
 </tr>
 <tr>
@@ -340,17 +340,17 @@
 <td align="center">
 <img src="https://img.shields.io/badge/💎-1450-1565C0?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 180.000</h3>
+<br><h3>Rp 190.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-2180-0D47A1?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 280.000</h3>
+<br><h3>Rp 290.000</h3>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/💎-2200-01579B?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 290.000</h3>
+<br><h3>Rp 300.000</h3>
 </td>
 </tr>
 </table>
@@ -369,23 +369,23 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💎-2720-00695C?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 340.000</h3>
+<br><h3>Rp 350.000</h3>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💎-3640-004D40?style=for-the-badge"/>
 <br><b>Diamond</b>
-<br><h3>Rp 450.000</h3>
+<br><h3>Rp 480.000</h3>
 </td>
 <td align="center" width="25%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px;">
 <img src="https://img.shields.io/badge/🔥_HOT-4000_DIAMOND-FF0000?style=for-the-badge&logo=fire&logoColor=white"/>
-<br><h2>Rp 500.000</h2>
+<br><h2>Rp 540.000</h2>
 <sub>💥 SUPER VALUE</sub>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="4" style="background: linear-gradient(135deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%); padding: 25px; border-radius: 15px;">
 <img src="https://img.shields.io/badge/👑_MEGA_SULTAN-7290_DIAMOND-FFD700?style=for-the-badge&logo=crown&logoColor=black"/>
-<br><h1>💎 Rp 900.000 💎</h1>
+<br><h1>💎 Rp 960.000 💎</h1>
 <sub>🌟 Paket Terlengkap • 🎁 Bonus Ekstra • ⚡ VIP Support</sub>
 </td>
 </tr>
